@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me 
     > Discord: Chell#0598
-     > Instagram: @NerdChell
+      Instagram: @NerdChell
     > Email: chell.rodrigues@outlook.com
-     > WhatsApp/Telegram: +55 11 939601035
+      WhatsApp/Telegram: +55 11 939601035
 
 
 print('Hello, World!')
