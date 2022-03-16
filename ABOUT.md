@@ -4,6 +4,6 @@
 - 👨‍💻 (Future) FullStack Indie Developer - FID
 - 📫 How to reach me 
     - Discord: Chell#0598
-    - Instagram: @NerdChell
-    - Email: rodriguessnts@outlook.com
+    - Instagram: @DevChell
+    - Email: devchell@outlook.com.br
     - WhatsApp/Telegram: +55 11 939601035
