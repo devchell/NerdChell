@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Chell
+- ⚙️ Back-End Student
+- 🖌️ Front-End Student
+- 👨‍💻 (Future) FullStack Independent Developer - FID
+- 📫 How to reach me 
+    - Discord: Chell#0598
+    - Instagram: @NerdChell
+    - Email: chell.rodrigues@outlook.com
+    - WhatsApp/Telegram: +55 11 939601035
